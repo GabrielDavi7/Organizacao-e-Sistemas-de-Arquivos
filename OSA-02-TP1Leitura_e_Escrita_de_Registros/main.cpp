@@ -8,6 +8,13 @@ void ImprimirRegistro(const std::string prefixo, const Registro& registro){
     std::cout << prefixo << "Nome: " << registro.nome << ", idade: " << registro.idade << std::endl;
 }
 
+void imprimirVetor(const std::vector<Registro>& vetorRegistros){
+    int cont = 1;
+    for(const auto& registro: vetorRegistros){
+        std::cout << "Registro "<< cont++ << " - Nome: " << registro.nome << ", idade: " << registro.idade << std::endl;
+    }
+}
+
 int testarClasseRegistro(){
     std::cout<<"-----------------------------------------------------------------------------------------------"<<std::endl;
     std::cout<<"                                        Teste registro "<<std::endl;
@@ -27,6 +34,7 @@ int testarClasseRegistro(){
         std::cerr << "O buffer que foi serializado é maior que o permitido" << std::endl;
         return 1;}
 
+        
     //teste deserializacao
     std::cout<< "-----Teste de deserializacao-----"<<std::endl;
     Registro TesteDeserial;
@@ -110,7 +118,34 @@ int main(){
     testarClasseArquivo();
 */
 
+const std::string ArquivoCSV = "CSV/Nomes_Idades_1.csv";
+const std::string ArquivoBIN = "arquivo.bin";
 
+Arquivo csv(ArquivoCSV);
+std::vector<Registro> registroLido = csv.lerRegistrosCSV();
+
+ if (registroLido.empty()) {
+        std::cerr << "Nenhum registro foi lido no csv." << std::endl;
+        return 1;
+    }
+
+Arquivo bin(ArquivoBIN);
+std::remove(ArquivoBIN.c_str());
+
+for(auto& registro: registroLido){
+    bin.adicionarRegistroFixo(registro);
+}
+
+std::vector<Registro> registrosNoArquivo = bin.lerRegistroFixo();
+if (registrosNoArquivo.empty()) {
+        std::cerr << "Nenhum registro foi lido no binario." << std::endl;
+        return 1;
+    }
+
+std::cout << registrosNoArquivo.size() << " registros lidos do arquivo " << ArquivoBIN << ":" << std::endl;
+imprimirVetor(registrosNoArquivo);
+
+std::cout << "\nProcesso concluido com sucesso!" << std::endl;
 
     return 0;
 }
