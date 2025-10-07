@@ -1,0 +1,1001 @@
+Nome;Matricula;Curso
+Alice Rodrigues;20250001;BCC
+Miguel Pereira;20250002;BSI
+Sophia Santos;20250003;TADS
+Arthur Oliveira;20250004;EC
+Helena Souza;20250005;BCC
+Bernardo Alves;20250006;BSI
+Valentina Ferreira;20250007;TADS
+Davi Lima;20250008;EC
+Laura Costa;20250009;BCC
+Theo Ribeiro;20250010;BSI
+Isabella Martins;20250011;TADS
+Gabriel Gomes;20250012;EC
+Manuela Barros;20250013;BCC
+Heitor Rocha;20250014;BSI
+Julia Azevedo;20250015;TADS
+Lorenzo Correia;20250016;EC
+Luiza Cardoso;20250017;BCC
+Pedro Dias;20250018;BSI
+Maria Luiza Fernandes;20250019;TADS
+Lucas Freitas;20250020;EC
+Giovanna Moura;20250021;BCC
+Guilherme Nunes;20250022;BSI
+Beatriz Pinto;20250023;TADS
+Matheus Ramos;20250024;EC
+Mariana Rezende;20250025;BCC
+Rafael Sales;20250026;BSI
+Yasmin Teixeira;20250027;TADS
+Enzo Viana;20250028;EC
+Livia Andrade;20250029;BCC
+Nicolas Barbosa;20250030;BSI
+Sarah Campos;20250031;TADS
+Joao Miguel Duarte;20250032;EC
+Clara Esteves;20250033;BCC
+Samuel Farias;20250034;BSI
+Isadora Garcia;20250035;TADS
+Benjamin Henriques;20250036;EC
+Melissa Iglesias;20250037;BCC
+Joaquim Jesus;20250038;BSI
+Esther Lopes;20250039;TADS
+Henrique Melo;20250040;EC
+Elisa Nogueira;20250041;BCC
+Murilo Peixoto;20250042;BSI
+Cecilia Queiroz;20250043;TADS
+Bento Ribeiro;20250044;EC
+Maya Santos;20250045;BCC
+Vicente Torres;20250046;BSI
+Antonella Vasconcelos;20250047;TADS
+Augusto Xavier;20250048;EC
+Catarina Zago;20250049;BCC
+Emanuel Rodrigues;20250050;BSI
+Isabelly Pereira;20250051;TADS
+Noah Santos;20250052;EC
+Ana Julia Oliveira;20250053;BCC
+Davi Lucca Souza;20250054;BSI
+Maria Alice Alves;20250055;TADS
+Anthony Ferreira;20250056;EC
+Maria Clara Lima;20250057;BCC
+Ravi Costa;20250058;BSI
+Maria Eduarda Ribeiro;20250059;TADS
+Joao Lucas Martins;20250060;EC
+Lorena Gomes;20250061;BCC
+Leonardo Barros;20250062;BSI
+Heloisa Rocha;20250063;TADS
+Bryan Azevedo;20250064;EC
+Alice Correia;20250065;BCC
+Miguel Cardoso;20250066;BSI
+Sophia Dias;20250067;TADS
+Arthur Fernandes;20250068;EC
+Helena Freitas;20250069;BCC
+Bernardo Moura;20250070;BSI
+Valentina Nunes;20250071;TADS
+Davi Pinto;20250072;EC
+Laura Ramos;20250073;BCC
+Theo Rezende;20250074;BSI
+Isabella Sales;20250075;TADS
+Gabriel Teixeira;20250076;EC
+Manuela Viana;20250077;BCC
+Heitor Andrade;20250078;BSI
+Julia Barbosa;20250079;TADS
+Lorenzo Campos;20250080;EC
+Luiza Duarte;20250081;BCC
+Pedro Esteves;20250082;BSI
+Maria Luiza Farias;20250083;TADS
+Lucas Garcia;20250084;EC
+Giovanna Henriques;20250085;BCC
+Guilherme Iglesias;20250086;BSI
+Beatriz Jesus;20250087;TADS
+Matheus Lopes;20250088;EC
+Mariana Melo;20250089;BCC
+Rafael Nogueira;20250090;BSI
+Yasmin Peixoto;20250091;TADS
+Enzo Queiroz;20250092;EC
+Livia Ribeiro;20250093;BCC
+Nicolas Santos;20250094;BSI
+Sarah Torres;20250095;TADS
+Joao Miguel Vasconcelos;20250096;EC
+Clara Xavier;20250097;BCC
+Samuel Zago;20250098;BSI
+Isadora Rodrigues;20250099;TADS
+Benjamin Pereira;20250100;EC
+Melissa Santos;20250101;BCC
+Joaquim Oliveira;20250102;BSI
+Esther Souza;20250103;TADS
+Henrique Alves;20250104;EC
+Elisa Ferreira;20250105;BCC
+Murilo Lima;20250106;BSI
+Cecilia Costa;20250107;TADS
+Bento Ribeiro;20250108;EC
+Maya Martins;20250109;BCC
+Vicente Gomes;20250110;BSI
+Antonella Barros;20250111;TADS
+Augusto Rocha;20250112;EC
+Catarina Azevedo;20250113;BCC
+Emanuel Correia;20250114;BSI
+Isabelly Cardoso;20250115;TADS
+Noah Dias;20250116;EC
+Ana Julia Fernandes;20250117;BCC
+Davi Lucca Freitas;20250118;BSI
+Maria Alice Moura;20250119;TADS
+Anthony Nunes;20250120;EC
+Maria Clara Pinto;20250121;BCC
+Ravi Ramos;20250122;BSI
+Maria Eduarda Rezende;20250123;TADS
+Joao Lucas Sales;20250124;EC
+Lorena Teixeira;20250125;BCC
+Leonardo Viana;20250126;BSI
+Heloisa Andrade;20250127;TADS
+Bryan Barbosa;20250128;EC
+Alice Campos;20250129;BCC
+Miguel Duarte;20250130;BSI
+Sophia Esteves;20250131;TADS
+Arthur Farias;20250132;EC
+Helena Garcia;20250133;BCC
+Bernardo Henriques;20250134;BSI
+Valentina Iglesias;20250135;TADS
+Davi Jesus;20250136;EC
+Laura Lopes;20250137;BCC
+Theo Melo;20250138;BSI
+Isabella Nogueira;20250139;TADS
+Gabriel Peixoto;20250140;EC
+Manuela Queiroz;20250141;BCC
+Heitor Ribeiro;20250142;BSI
+Julia Santos;20250143;TADS
+Lorenzo Torres;20250144;EC
+Luiza Vasconcelos;20250145;BCC
+Pedro Xavier;20250146;BSI
+Maria Luiza Zago;20250147;TADS
+Lucas Rodrigues;20250148;EC
+Giovanna Pereira;20250149;BCC
+Guilherme Santos;20250150;BSI
+Beatriz Oliveira;20250151;TADS
+Matheus Souza;20250152;EC
+Mariana Alves;20250153;BCC
+Rafael Ferreira;20250154;BSI
+Yasmin Lima;20250155;TADS
+Enzo Costa;20250156;EC
+Livia Ribeiro;20250157;BCC
+Nicolas Martins;20250158;BSI
+Sarah Gomes;20250159;TADS
+Joao Miguel Barros;20250160;EC
+Clara Rocha;20250161;BCC
+Samuel Azevedo;20250162;BSI
+Isadora Correia;20250163;TADS
+Benjamin Cardoso;20250164;EC
+Melissa Dias;20250165;BCC
+Joaquim Fernandes;20250166;BSI
+Esther Freitas;20250167;TADS
+Henrique Moura;20250168;EC
+Elisa Nunes;20250169;BCC
+Murilo Pinto;20250170;BSI
+Cecilia Ramos;20250171;TADS
+Bento Rezende;20250172;EC
+Maya Sales;20250173;BCC
+Vicente Teixeira;20250174;BSI
+Antonella Viana;20250175;TADS
+Augusto Andrade;20250176;EC
+Catarina Barbosa;20250177;BCC
+Emanuel Campos;20250178;BSI
+Isabelly Duarte;20250179;TADS
+Noah Esteves;20250180;EC
+Ana Julia Farias;20250181;BCC
+Davi Lucca Garcia;20250182;BSI
+Maria Alice Henriques;20250183;TADS
+Anthony Iglesias;20250184;EC
+Maria Clara Jesus;20250185;BCC
+Ravi Lopes;20250186;BSI
+Maria Eduarda Melo;20250187;TADS
+Joao Lucas Nogueira;20250188;EC
+Lorena Peixoto;20250189;BCC
+Leonardo Queiroz;20250190;BSI
+Heloisa Ribeiro;20250191;TADS
+Bryan Santos;20250192;EC
+Alice Torres;20250193;BCC
+Miguel Vasconcelos;20250194;BSI
+Sophia Xavier;20250195;TADS
+Arthur Zago;20250196;EC
+Helena Rodrigues;20250197;BCC
+Bernardo Pereira;20250198;BSI
+Valentina Santos;20250199;TADS
+Davi Oliveira;20250200;EC
+Laura Souza;20250201;BCC
+Theo Alves;20250202;BSI
+Isabella Ferreira;20250203;TADS
+Gabriel Lima;20250204;EC
+Manuela Costa;20250205;BCC
+Heitor Ribeiro;20250206;BSI
+Julia Martins;20250207;TADS
+Lorenzo Gomes;20250208;EC
+Luiza Barros;20250209;BCC
+Pedro Rocha;20250210;BSI
+Maria Luiza Azevedo;20250211;TADS
+Lucas Correia;20250212;EC
+Giovanna Cardoso;20250213;BCC
+Guilherme Dias;20250214;BSI
+Beatriz Fernandes;20250215;TADS
+Matheus Freitas;20250216;EC
+Mariana Moura;20250217;BCC
+Rafael Nunes;20250218;BSI
+Yasmin Pinto;20250219;TADS
+Enzo Ramos;20250220;EC
+Livia Rezende;20250221;BCC
+Nicolas Sales;20250222;BSI
+Sarah Teixeira;20250223;TADS
+Joao Miguel Viana;20250224;EC
+Clara Andrade;20250225;BCC
+Samuel Barbosa;20250226;BSI
+Isadora Campos;20250227;TADS
+Benjamin Duarte;20250228;EC
+Melissa Esteves;20250229;BCC
+Joaquim Farias;20250230;BSI
+Esther Garcia;20250231;TADS
+Henrique Henriques;20250232;EC
+Elisa Iglesias;20250233;BCC
+Murilo Jesus;20250234;BSI
+Cecilia Lopes;20250235;TADS
+Bento Melo;20250236;EC
+Maya Nogueira;20250237;BCC
+Vicente Peixoto;20250238;BSI
+Antonella Queiroz;20250239;TADS
+Augusto Ribeiro;20250240;EC
+Catarina Santos;20250241;BCC
+Emanuel Torres;20250242;BSI
+Isabelly Vasconcelos;20250243;TADS
+Noah Xavier;20250244;EC
+Ana Julia Zago;20250245;BCC
+Davi Lucca Rodrigues;20250246;BSI
+Maria Alice Pereira;20250247;TADS
+Anthony Santos;20250248;EC
+Maria Clara Oliveira;20250249;BCC
+Ravi Souza;20250250;BSI
+Maria Eduarda Alves;20250251;TADS
+Joao Lucas Ferreira;20250252;EC
+Lorena Lima;20250253;BCC
+Leonardo Costa;20250254;BSI
+Heloisa Ribeiro;20250255;TADS
+Bryan Martins;20250256;EC
+Alice Gomes;20250257;BCC
+Miguel Barros;20250258;BSI
+Sophia Rocha;20250259;TADS
+Arthur Azevedo;20250260;EC
+Helena Correia;20250261;BCC
+Bernardo Cardoso;20250262;BSI
+Valentina Dias;20250263;TADS
+Davi Fernandes;20250264;EC
+Laura Freitas;20250265;BCC
+Theo Moura;20250266;BSI
+Isabella Nunes;20250267;TADS
+Gabriel Pinto;20250268;EC
+Manuela Ramos;20250269;BCC
+Heitor Rezende;20250270;BSI
+Julia Sales;20250271;TADS
+Lorenzo Teixeira;20250272;EC
+Luiza Viana;20250273;BCC
+Pedro Andrade;20250274;BSI
+Maria Luiza Barbosa;20250275;TADS
+Lucas Campos;20250276;EC
+Giovanna Duarte;20250277;BCC
+Guilherme Esteves;20250278;BSI
+Beatriz Farias;20250279;TADS
+Matheus Garcia;20250280;EC
+Mariana Henriques;20250281;BCC
+Rafael Iglesias;20250282;BSI
+Yasmin Jesus;20250283;TADS
+Enzo Lopes;20250284;EC
+Livia Melo;20250285;BCC
+Nicolas Nogueira;20250286;BSI
+Sarah Peixoto;20250287;TADS
+Joao Miguel Queiroz;20250288;EC
+Clara Ribeiro;20250289;BCC
+Samuel Santos;20250290;BSI
+Isadora Torres;20250291;TADS
+Benjamin Vasconcelos;20250292;EC
+Melissa Xavier;20250293;BCC
+Joaquim Zago;20250294;BSI
+Esther Rodrigues;20250295;TADS
+Henrique Pereira;20250296;EC
+Elisa Santos;20250297;BCC
+Murilo Oliveira;20250298;BSI
+Cecilia Souza;20250299;TADS
+Bento Alves;20250300;EC
+Maya Ferreira;20250301;BCC
+Vicente Lima;20250302;BSI
+Antonella Costa;20250303;TADS
+Augusto Ribeiro;20250304;EC
+Catarina Martins;20250305;BCC
+Emanuel Gomes;20250306;BSI
+Isabelly Barros;20250307;TADS
+Noah Rocha;20250308;EC
+Ana Julia Azevedo;20250309;BCC
+Davi Lucca Correia;20250310;BSI
+Maria Alice Cardoso;20250311;TADS
+Anthony Dias;20250312;EC
+Maria Clara Fernandes;20250313;BCC
+Ravi Freitas;20250314;BSI
+Maria Eduarda Moura;20250315;TADS
+Joao Lucas Nunes;20250316;EC
+Lorena Pinto;20250317;BCC
+Leonardo Ramos;20250318;BSI
+Heloisa Rezende;20250319;TADS
+Bryan Sales;20250320;EC
+Alice Teixeira;20250321;BCC
+Miguel Viana;20250322;BSI
+Sophia Andrade;20250323;TADS
+Arthur Barbosa;20250324;EC
+Helena Campos;20250325;BCC
+Bernardo Duarte;20250326;BSI
+Valentina Esteves;20250327;TADS
+Davi Farias;20250328;EC
+Laura Garcia;20250329;BCC
+Theo Henriques;20250330;BSI
+Isabella Iglesias;20250331;TADS
+Gabriel Jesus;20250332;EC
+Manuela Lopes;20250333;BCC
+Heitor Melo;20250334;BSI
+Julia Nogueira;20250335;TADS
+Lorenzo Peixoto;20250336;EC
+Luiza Queiroz;20250337;BCC
+Pedro Ribeiro;20250338;BSI
+Maria Luiza Santos;20250339;TADS
+Lucas Torres;20250340;EC
+Giovanna Vasconcelos;20250341;BCC
+Guilherme Xavier;20250342;BSI
+Beatriz Zago;20250343;TADS
+Matheus Rodrigues;20250344;EC
+Mariana Pereira;20250345;BCC
+Rafael Santos;20250346;BSI
+Yasmin Oliveira;20250347;TADS
+Enzo Souza;20250348;EC
+Livia Alves;20250349;BCC
+Nicolas Ferreira;20250350;BSI
+Sarah Lima;20250351;TADS
+Joao Miguel Costa;20250352;EC
+Clara Ribeiro;20250353;BCC
+Samuel Martins;20250354;BSI
+Isadora Gomes;20250355;TADS
+Benjamin Barros;20250356;EC
+Melissa Rocha;20250357;BCC
+Joaquim Azevedo;20250358;BSI
+Esther Correia;20250359;TADS
+Henrique Cardoso;20250360;EC
+Elisa Dias;20250361;BCC
+Murilo Fernandes;20250362;BSI
+Cecilia Freitas;20250363;TADS
+Bento Moura;20250364;EC
+Maya Nunes;20250365;BCC
+Vicente Pinto;20250366;BSI
+Antonella Ramos;20250367;TADS
+Augusto Rezende;20250368;EC
+Catarina Sales;20250369;BCC
+Emanuel Teixeira;20250370;BSI
+Isabelly Viana;20250371;TADS
+Noah Andrade;20250372;EC
+Ana Julia Barbosa;20250373;BCC
+Davi Lucca Campos;20250374;BSI
+Maria Alice Duarte;20250375;TADS
+Anthony Esteves;20250376;EC
+Maria Clara Farias;20250377;BCC
+Ravi Garcia;20250378;BSI
+Maria Eduarda Henriques;20250379;TADS
+Joao Lucas Iglesias;20250380;EC
+Lorena Jesus;20250381;BCC
+Leonardo Lopes;20250382;BSI
+Heloisa Melo;20250383;TADS
+Bryan Nogueira;20250384;EC
+Alice Peixoto;20250385;BCC
+Miguel Queiroz;20250386;BSI
+Sophia Ribeiro;20250387;TADS
+Arthur Santos;20250388;EC
+Helena Torres;20250389;BCC
+Bernardo Vasconcelos;20250390;BSI
+Valentina Xavier;20250391;TADS
+Davi Zago;20250392;EC
+Laura Rodrigues;20250393;BCC
+Theo Pereira;20250394;BSI
+Isabella Santos;20250395;TADS
+Gabriel Oliveira;20250396;EC
+Manuela Souza;20250397;BCC
+Heitor Alves;20250398;BSI
+Julia Ferreira;20250399;TADS
+Lorenzo Lima;20250400;EC
+Luiza Costa;20250401;BCC
+Pedro Ribeiro;20250402;BSI
+Maria Luiza Martins;20250403;TADS
+Lucas Gomes;20250404;EC
+Giovanna Barros;20250405;BCC
+Guilherme Rocha;20250406;BSI
+Beatriz Azevedo;20250407;TADS
+Matheus Correia;20250408;EC
+Mariana Cardoso;20250409;BCC
+Rafael Dias;20250410;BSI
+Yasmin Fernandes;20250411;TADS
+Enzo Freitas;20250412;EC
+Livia Moura;20250413;BCC
+Nicolas Nunes;20250414;BSI
+Sarah Pinto;20250415;TADS
+Joao Miguel Ramos;20250416;EC
+Clara Rezende;20250417;BCC
+Samuel Sales;20250418;BSI
+Isadora Teixeira;20250419;TADS
+Benjamin Viana;20250420;EC
+Melissa Andrade;20250421;BCC
+Joaquim Barbosa;20250422;BSI
+Esther Campos;20250423;TADS
+Henrique Duarte;20250424;EC
+Elisa Esteves;20250425;BCC
+Murilo Farias;20250426;BSI
+Cecilia Garcia;20250427;TADS
+Bento Henriques;20250428;EC
+Maya Iglesias;20250429;BCC
+Vicente Jesus;20250430;BSI
+Antonella Lopes;20250431;TADS
+Augusto Melo;20250432;EC
+Catarina Nogueira;20250433;BCC
+Emanuel Peixoto;20250434;BSI
+Isabelly Queiroz;20250435;TADS
+Noah Ribeiro;20250436;EC
+Ana Julia Santos;20250437;BCC
+Davi Lucca Torres;20250438;BSI
+Maria Alice Vasconcelos;20250439;TADS
+Anthony Xavier;20250440;EC
+Maria Clara Zago;20250441;BCC
+Ravi Rodrigues;20250442;BSI
+Maria Eduarda Pereira;20250443;TADS
+Joao Lucas Santos;20250444;EC
+Lorena Oliveira;20250445;BCC
+Leonardo Souza;20250446;BSI
+Heloisa Alves;20250447;TADS
+Bryan Ferreira;20250448;EC
+Alice Lima;20250449;BCC
+Miguel Costa;20250450;BSI
+Sophia Ribeiro;20250451;TADS
+Arthur Martins;20250452;EC
+Helena Gomes;20250453;BCC
+Bernardo Barros;20250454;BSI
+Valentina Rocha;20250455;TADS
+Davi Azevedo;20250456;EC
+Laura Correia;20250457;BCC
+Theo Cardoso;20250458;BSI
+Isabella Dias;20250459;TADS
+Gabriel Fernandes;20250460;EC
+Manuela Freitas;20250461;BCC
+Heitor Moura;20250462;BSI
+Julia Nunes;20250463;TADS
+Lorenzo Pinto;20250464;EC
+Luiza Ramos;20250465;BCC
+Pedro Rezende;20250466;BSI
+Maria Luiza Sales;20250467;TADS
+Lucas Teixeira;20250468;EC
+Giovanna Viana;20250469;BCC
+Guilherme Andrade;20250470;BSI
+Beatriz Barbosa;20250471;TADS
+Matheus Campos;20250472;EC
+Mariana Duarte;20250473;BCC
+Rafael Esteves;20250474;BSI
+Yasmin Farias;20250475;TADS
+Enzo Garcia;20250476;EC
+Livia Henriques;20250477;BCC
+Nicolas Iglesias;20250478;BSI
+Sarah Jesus;20250479;TADS
+Joao Miguel Lopes;20250480;EC
+Clara Melo;20250481;BCC
+Samuel Nogueira;20250482;BSI
+Isadora Peixoto;20250483;TADS
+Benjamin Queiroz;20250484;EC
+Melissa Ribeiro;20250485;BCC
+Joaquim Santos;20250486;BSI
+Esther Torres;20250487;TADS
+Henrique Vasconcelos;20250488;EC
+Elisa Xavier;20250489;BCC
+Murilo Zago;20250490;BSI
+Cecilia Rodrigues;20250491;TADS
+Bento Pereira;20250492;EC
+Maya Santos;20250493;BCC
+Vicente Oliveira;20250494;BSI
+Antonella Souza;20250495;TADS
+Augusto Alves;20250496;EC
+Catarina Ferreira;20250497;BCC
+Emanuel Lima;20250498;BSI
+Isabelly Costa;20250499;TADS
+Noah Ribeiro;20250500;EC
+Ana Julia Martins;20250501;BCC
+Davi Lucca Gomes;20250502;BSI
+Maria Alice Barros;20250503;TADS
+Anthony Rocha;20250504;EC
+Maria Clara Azevedo;20250505;BCC
+Ravi Correia;20250506;BSI
+Maria Eduarda Cardoso;20250507;TADS
+Joao Lucas Dias;20250508;EC
+Lorena Fernandes;20250509;BCC
+Leonardo Freitas;20250510;BSI
+Heloisa Moura;20250511;TADS
+Bryan Nunes;20250512;EC
+Alice Pinto;20250513;BCC
+Miguel Ramos;20250514;BSI
+Sophia Rezende;20250515;TADS
+Arthur Sales;20250516;EC
+Helena Teixeira;20250517;BCC
+Bernardo Viana;20250518;BSI
+Valentina Andrade;20250519;TADS
+Davi Barbosa;20250520;EC
+Laura Campos;20250521;BCC
+Theo Duarte;20250522;BSI
+Isabella Esteves;20250523;TADS
+Gabriel Farias;20250524;EC
+Manuela Garcia;20250525;BCC
+Heitor Henriques;20250526;BSI
+Julia Iglesias;20250527;TADS
+Lorenzo Jesus;20250528;EC
+Luiza Lopes;20250529;BCC
+Pedro Melo;20250530;BSI
+Maria Luiza Nogueira;20250531;TADS
+Lucas Peixoto;20250532;EC
+Giovanna Queiroz;20250533;BCC
+Guilherme Ribeiro;20250534;BSI
+Beatriz Santos;20250535;TADS
+Matheus Torres;20250536;EC
+Mariana Vasconcelos;20250537;BCC
+Rafael Xavier;20250538;BSI
+Yasmin Zago;20250539;TADS
+Enzo Rodrigues;20250540;EC
+Livia Pereira;20250541;BCC
+Nicolas Santos;20250542;BSI
+Sarah Oliveira;20250543;TADS
+Joao Miguel Souza;20250544;EC
+Clara Alves;20250545;BCC
+Samuel Ferreira;20250546;BSI
+Isadora Lima;20250547;TADS
+Benjamin Costa;20250548;EC
+Melissa Ribeiro;20250549;BCC
+Joaquim Martins;20250550;BSI
+Esther Gomes;20250551;TADS
+Henrique Barros;20250552;EC
+Elisa Rocha;20250553;BCC
+Murilo Azevedo;20250554;BSI
+Cecilia Correia;20250555;TADS
+Bento Cardoso;20250556;EC
+Maya Dias;20250557;BCC
+Vicente Fernandes;20250558;BSI
+Antonella Freitas;20250559;TADS
+Augusto Moura;20250560;EC
+Catarina Nunes;20250561;BCC
+Emanuel Pinto;20250562;BSI
+Isabelly Ramos;20250563;TADS
+Noah Rezende;20250564;EC
+Ana Julia Sales;20250565;BCC
+Davi Lucca Teixeira;20250566;BSI
+Maria Alice Viana;20250567;TADS
+Anthony Andrade;20250568;EC
+Maria Clara Barbosa;20250569;BCC
+Ravi Campos;20250570;BSI
+Maria Eduarda Duarte;20250571;TADS
+Joao Lucas Esteves;20250572;EC
+Lorena Farias;20250573;BCC
+Leonardo Garcia;20250574;BSI
+Heloisa Henriques;20250575;TADS
+Bryan Iglesias;20250576;EC
+Alice Jesus;20250577;BCC
+Miguel Lopes;20250578;BSI
+Sophia Melo;20250579;TADS
+Arthur Nogueira;20250580;EC
+Helena Peixoto;20250581;BCC
+Bernardo Queiroz;20250582;BSI
+Valentina Ribeiro;20250583;TADS
+Davi Santos;20250584;EC
+Laura Torres;20250585;BCC
+Theo Vasconcelos;20250586;BSI
+Isabella Xavier;20250587;TADS
+Gabriel Zago;20250588;EC
+Manuela Rodrigues;20250589;BCC
+Heitor Pereira;20250590;BSI
+Julia Santos;20250591;TADS
+Lorenzo Oliveira;20250592;EC
+Luiza Souza;20250593;BCC
+Pedro Alves;20250594;BSI
+Maria Luiza Ferreira;20250595;TADS
+Lucas Lima;20250596;EC
+Giovanna Costa;20250597;BCC
+Guilherme Ribeiro;20250598;BSI
+Beatriz Martins;20250599;TADS
+Matheus Gomes;20250600;EC
+Mariana Barros;20250601;BCC
+Rafael Rocha;20250602;BSI
+Yasmin Azevedo;20250603;TADS
+Enzo Correia;20250604;EC
+Livia Cardoso;20250605;BCC
+Nicolas Dias;20250606;BSI
+Sarah Fernandes;20250607;TADS
+Joao Miguel Freitas;20250608;EC
+Clara Moura;20250609;BCC
+Samuel Nunes;20250610;BSI
+Isadora Pinto;20250611;TADS
+Benjamin Ramos;20250612;EC
+Melissa Rezende;20250613;BCC
+Joaquim Sales;20250614;BSI
+Esther Teixeira;20250615;TADS
+Henrique Viana;20250616;EC
+Elisa Andrade;20250617;BCC
+Murilo Barbosa;20250618;BSI
+Cecilia Campos;20250619;TADS
+Bento Duarte;20250620;EC
+Maya Esteves;20250621;BCC
+Vicente Farias;20250622;BSI
+Antonella Garcia;20250623;TADS
+Augusto Henriques;20250624;EC
+Catarina Iglesias;20250625;BCC
+Emanuel Jesus;20250626;BSI
+Isabelly Lopes;20250627;TADS
+Noah Melo;20250628;EC
+Ana Julia Nogueira;20250629;BCC
+Davi Lucca Peixoto;20250630;BSI
+Maria Alice Queiroz;20250631;TADS
+Anthony Ribeiro;20250632;EC
+Maria Clara Santos;20250633;BCC
+Ravi Torres;20250634;BSI
+Maria Eduarda Vasconcelos;20250635;TADS
+Joao Lucas Xavier;20250636;EC
+Lorena Zago;20250637;BCC
+Leonardo Rodrigues;20250638;BSI
+Heloisa Pereira;20250639;TADS
+Bryan Santos;20250640;EC
+Alice Oliveira;20250641;BCC
+Miguel Souza;20250642;BSI
+Sophia Alves;20250643;TADS
+Arthur Ferreira;20250644;EC
+Helena Lima;20250645;BCC
+Bernardo Costa;20250646;BSI
+Valentina Ribeiro;20250647;TADS
+Davi Martins;20250648;EC
+Laura Gomes;20250649;BCC
+Theo Barros;20250650;BSI
+Isabella Rocha;20250651;TADS
+Gabriel Azevedo;20250652;EC
+Manuela Correia;20250653;BCC
+Heitor Cardoso;20250654;BSI
+Julia Dias;20250655;TADS
+Lorenzo Fernandes;20250656;EC
+Luiza Freitas;20250657;BCC
+Pedro Moura;20250658;BSI
+Maria Luiza Nunes;20250659;TADS
+Lucas Pinto;20250660;EC
+Giovanna Ramos;20250661;BCC
+Guilherme Rezende;20250662;BSI
+Beatriz Sales;20250663;TADS
+Matheus Teixeira;20250664;EC
+Mariana Viana;20250665;BCC
+Rafael Andrade;20250666;BSI
+Yasmin Barbosa;20250667;TADS
+Enzo Campos;20250668;EC
+Livia Duarte;20250669;BCC
+Nicolas Esteves;20250670;BSI
+Sarah Farias;20250671;TADS
+Joao Miguel Garcia;20250672;EC
+Clara Henriques;20250673;BCC
+Samuel Iglesias;20250674;BSI
+Isadora Jesus;20250675;TADS
+Benjamin Lopes;20250676;EC
+Melissa Melo;20250677;BCC
+Joaquim Nogueira;20250678;BSI
+Esther Peixoto;20250679;TADS
+Henrique Queiroz;20250680;EC
+Elisa Ribeiro;20250681;BCC
+Murilo Santos;20250682;BSI
+Cecilia Torres;20250683;TADS
+Bento Vasconcelos;20250684;EC
+Maya Xavier;20250685;BCC
+Vicente Zago;20250686;BSI
+Antonella Rodrigues;20250687;TADS
+Augusto Pereira;20250688;EC
+Catarina Santos;20250689;BCC
+Emanuel Oliveira;20250690;BSI
+Isabelly Souza;20250691;TADS
+Noah Alves;20250692;EC
+Ana Julia Ferreira;20250693;BCC
+Davi Lucca Lima;20250694;BSI
+Maria Alice Costa;20250695;TADS
+Anthony Ribeiro;20250696;EC
+Maria Clara Martins;20250697;BCC
+Ravi Gomes;20250698;BSI
+Maria Eduarda Barros;20250699;TADS
+Joao Lucas Rocha;20250700;EC
+Lorena Azevedo;20250701;BCC
+Leonardo Correia;20250702;BSI
+Heloisa Cardoso;20250703;TADS
+Bryan Dias;20250704;EC
+Alice Fernandes;20250705;BCC
+Miguel Freitas;20250706;BSI
+Sophia Moura;20250707;TADS
+Arthur Nunes;20250708;EC
+Helena Pinto;20250709;BCC
+Bernardo Ramos;20250710;BSI
+Valentina Rezende;20250711;TADS
+Davi Sales;20250712;EC
+Laura Teixeira;20250713;BCC
+Theo Viana;20250714;BSI
+Isabella Andrade;20250715;TADS
+Gabriel Barbosa;20250716;EC
+Manuela Campos;20250717;BCC
+Heitor Duarte;20250718;BSI
+Julia Esteves;20250719;TADS
+Lorenzo Farias;20250720;EC
+Luiza Garcia;20250721;BCC
+Pedro Henriques;20250722;BSI
+Maria Luiza Iglesias;20250723;TADS
+Lucas Jesus;20250724;EC
+Giovanna Lopes;20250725;BCC
+Guilherme Melo;20250726;BSI
+Beatriz Nogueira;20250727;TADS
+Matheus Peixoto;20250728;EC
+Mariana Queiroz;20250729;BCC
+Rafael Ribeiro;20250730;BSI
+Yasmin Santos;20250731;TADS
+Enzo Torres;20250732;EC
+Livia Vasconcelos;20250733;BCC
+Nicolas Xavier;20250734;BSI
+Sarah Zago;20250735;TADS
+Joao Miguel Rodrigues;20250736;EC
+Clara Pereira;20250737;BCC
+Samuel Santos;20250738;BSI
+Isadora Oliveira;20250739;TADS
+Benjamin Souza;20250740;EC
+Melissa Alves;20250741;BCC
+Joaquim Ferreira;20250742;BSI
+Esther Lima;20250743;TADS
+Henrique Costa;20250744;EC
+Elisa Ribeiro;20250745;BCC
+Murilo Martins;20250746;BSI
+Cecilia Gomes;20250747;TADS
+Bento Barros;20250748;EC
+Maya Rocha;20250749;BCC
+Vicente Azevedo;20250750;BSI
+Antonella Correia;20250751;TADS
+Augusto Cardoso;20250752;EC
+Catarina Dias;20250753;BCC
+Emanuel Fernandes;20250754;BSI
+Isabelly Freitas;20250755;TADS
+Noah Moura;20250756;EC
+Ana Julia Nunes;20250757;BCC
+Davi Lucca Pinto;20250758;BSI
+Maria Alice Ramos;20250759;TADS
+Anthony Rezende;20250760;EC
+Maria Clara Sales;20250761;BCC
+Ravi Teixeira;20250762;BSI
+Maria Eduarda Viana;20250763;TADS
+Joao Lucas Andrade;20250764;EC
+Lorena Barbosa;20250765;BCC
+Leonardo Campos;20250766;BSI
+Heloisa Duarte;20250767;TADS
+Bryan Esteves;20250768;EC
+Alice Farias;20250769;BCC
+Miguel Garcia;20250770;BSI
+Sophia Henriques;20250771;TADS
+Arthur Iglesias;20250772;EC
+Helena Jesus;20250773;BCC
+Bernardo Lopes;20250774;BSI
+Valentina Melo;20250775;TADS
+Davi Nogueira;20250776;EC
+Laura Peixoto;20250777;BCC
+Theo Queiroz;20250778;BSI
+Isabella Ribeiro;20250779;TADS
+Gabriel Santos;20250780;EC
+Manuela Torres;20250781;BCC
+Heitor Vasconcelos;20250782;BSI
+Julia Xavier;20250783;TADS
+Lorenzo Zago;20250784;EC
+Luiza Rodrigues;20250785;BCC
+Pedro Pereira;20250786;BSI
+Maria Luiza Santos;20250787;TADS
+Lucas Oliveira;20250788;EC
+Giovanna Souza;20250789;BCC
+Guilherme Alves;20250790;BSI
+Beatriz Ferreira;20250791;TADS
+Matheus Lima;20250792;EC
+Mariana Costa;20250793;BCC
+Rafael Ribeiro;20250794;BSI
+Yasmin Martins;20250795;TADS
+Enzo Gomes;20250796;EC
+Livia Barros;20250797;BCC
+Nicolas Rocha;20250798;BSI
+Sarah Azevedo;20250799;TADS
+Joao Miguel Correia;20250800;EC
+Clara Cardoso;20250801;BCC
+Samuel Dias;20250802;BSI
+Isadora Fernandes;20250803;TADS
+Benjamin Freitas;20250804;EC
+Melissa Moura;20250805;BCC
+Joaquim Nunes;20250806;BSI
+Esther Pinto;20250807;TADS
+Henrique Ramos;20250808;EC
+Elisa Rezende;20250809;BCC
+Murilo Sales;20250810;BSI
+Cecilia Teixeira;20250811;TADS
+Bento Viana;20250812;EC
+Maya Andrade;20250813;BCC
+Vicente Barbosa;20250814;BSI
+Antonella Campos;20250815;TADS
+Augusto Duarte;20250816;EC
+Catarina Esteves;20250817;BCC
+Emanuel Farias;20250818;BSI
+Isabelly Garcia;20250819;TADS
+Noah Henriques;20250820;EC
+Ana Julia Iglesias;20250821;BCC
+Davi Lucca Jesus;20250822;BSI
+Maria Alice Lopes;20250823;TADS
+Anthony Melo;20250824;EC
+Maria Clara Nogueira;20250825;BCC
+Ravi Peixoto;20250826;BSI
+Maria Eduarda Queiroz;20250827;TADS
+Joao Lucas Ribeiro;20250828;EC
+Lorena Santos;20250829;BCC
+Leonardo Torres;20250830;BSI
+Heloisa Vasconcelos;20250831;TADS
+Bryan Xavier;20250832;EC
+Alice Zago;20250833;BCC
+Miguel Rodrigues;20250834;BSI
+Sophia Pereira;20250835;TADS
+Arthur Santos;20250836;EC
+Helena Oliveira;20250837;BCC
+Bernardo Souza;20250838;BSI
+Valentina Alves;20250839;TADS
+Davi Ferreira;20250840;EC
+Laura Lima;20250841;BCC
+Theo Costa;20250842;BSI
+Isabella Ribeiro;20250843;TADS
+Gabriel Martins;20250844;EC
+Manuela Gomes;20250845;BCC
+Heitor Barros;20250846;BSI
+Julia Rocha;20250847;TADS
+Lorenzo Azevedo;20250848;EC
+Luiza Correia;20250849;BCC
+Pedro Cardoso;20250850;BSI
+Maria Luiza Dias;20250851;TADS
+Lucas Fernandes;20250852;EC
+Giovanna Freitas;20250853;BCC
+Guilherme Moura;20250854;BSI
+Beatriz Nunes;20250855;TADS
+Matheus Pinto;20250856;EC
+Mariana Ramos;20250857;BCC
+Rafael Rezende;20250858;BSI
+Yasmin Sales;20250859;TADS
+Enzo Teixeira;20250860;EC
+Livia Viana;20250861;BCC
+Nicolas Andrade;20250862;BSI
+Sarah Barbosa;20250863;TADS
+Joao Miguel Campos;20250864;EC
+Clara Duarte;20250865;BCC
+Samuel Esteves;20250866;BSI
+Isadora Farias;20250867;TADS
+Benjamin Garcia;20250868;EC
+Melissa Henriques;20250869;BCC
+Joaquim Iglesias;20250870;BSI
+Esther Jesus;20250871;TADS
+Henrique Lopes;20250872;EC
+Elisa Melo;20250873;BCC
+Murilo Nogueira;20250874;BSI
+Cecilia Peixoto;20250875;TADS
+Bento Queiroz;20250876;EC
+Maya Ribeiro;20250877;BCC
+Vicente Santos;20250878;BSI
+Antonella Torres;20250879;TADS
+Augusto Vasconcelos;20250880;EC
+Catarina Xavier;20250881;BCC
+Emanuel Zago;20250882;BSI
+Isabelly Rodrigues;20250883;TADS
+Noah Pereira;20250884;EC
+Ana Julia Santos;20250885;BCC
+Davi Lucca Oliveira;20250886;BSI
+Maria Alice Souza;20250887;TADS
+Anthony Alves;20250888;EC
+Maria Clara Ferreira;20250889;BCC
+Ravi Lima;20250890;BSI
+Maria Eduarda Costa;20250891;TADS
+Joao Lucas Ribeiro;20250892;EC
+Lorena Martins;20250893;BCC
+Leonardo Gomes;20250894;BSI
+Heloisa Barros;20250895;TADS
+Bryan Rocha;20250896;EC
+Alice Azevedo;20250897;BCC
+Miguel Correia;20250898;BSI
+Sophia Cardoso;20250899;TADS
+Arthur Dias;20250900;EC
+Helena Fernandes;20250901;BCC
+Bernardo Freitas;20250902;BSI
+Valentina Moura;20250903;TADS
+Davi Nunes;20250904;EC
+Laura Pinto;20250905;BCC
+Theo Ramos;20250906;BSI
+Isabella Rezende;20250907;TADS
+Gabriel Sales;20250908;EC
+Manuela Teixeira;20250909;BCC
+Heitor Viana;20250910;BSI
+Julia Andrade;20250911;TADS
+Lorenzo Barbosa;20250912;EC
+Luiza Campos;20250913;BCC
+Pedro Duarte;20250914;BSI
+Maria Luiza Esteves;20250915;TADS
+Lucas Farias;20250916;EC
+Giovanna Garcia;20250917;BCC
+Guilherme Henriques;20250918;BSI
+Beatriz Iglesias;20250919;TADS
+Matheus Jesus;20250920;EC
+Mariana Lopes;20250921;BCC
+Rafael Melo;20250922;BSI
+Yasmin Nogueira;20250923;TADS
+Enzo Peixoto;20250924;EC
+Livia Queiroz;20250925;BCC
+Nicolas Ribeiro;20250926;BSI
+Sarah Santos;20250927;TADS
+Joao Miguel Torres;20250928;EC
+Clara Vasconcelos;20250929;BCC
+Samuel Xavier;20250930;BSI
+Isadora Zago;20250931;TADS
+Benjamin Rodrigues;20250932;EC
+Melissa Pereira;20250933;BCC
+Joaquim Santos;20250934;BSI
+Esther Oliveira;20250935;TADS
+Henrique Souza;20250936;EC
+Elisa Alves;20250937;BCC
+Murilo Ferreira;20250938;BSI
+Cecilia Lima;20250939;TADS
+Bento Costa;20250940;EC
+Maya Ribeiro;20250941;BCC
+Vicente Martins;20250942;BSI
+Antonella Gomes;20250943;TADS
+Augusto Barros;20250944;EC
+Catarina Rocha;20250945;BCC
+Emanuel Azevedo;20250946;BSI
+Isabelly Correia;20250947;TADS
+Noah Cardoso;20250948;EC
+Ana Julia Dias;20250949;BCC
+Davi Lucca Fernandes;20250950;BSI
+Maria Alice Freitas;20250951;TADS
+Anthony Moura;20250952;EC
+Maria Clara Nunes;20250953;BCC
+Ravi Pinto;20250954;BSI
+Maria Eduarda Ramos;20250955;TADS
+Joao Lucas Rezende;20250956;EC
+Lorena Sales;20250957;BCC
+Leonardo Teixeira;20250958;BSI
+Heloisa Viana;20250959;TADS
+Bryan Andrade;20250960;EC
+Alice Barbosa;20250961;BCC
+Miguel Campos;20250962;BSI
+Sophia Duarte;20250963;TADS
+Arthur Esteves;20250964;EC
+Helena Farias;20250965;BCC
+Bernardo Garcia;20250966;BSI
+Valentina Henriques;20250967;TADS
+Davi Iglesias;20250968;EC
+Laura Jesus;20250969;BCC
+Theo Lopes;20250970;BSI
+Isabella Melo;20250971;TADS
+Gabriel Nogueira;20250972;EC
+Manuela Peixoto;20250973;BCC
+Heitor Queiroz;20250974;BSI
+Julia Ribeiro;20250975;TADS
+Lorenzo Santos;20250976;EC
+Luiza Torres;20250977;BCC
+Pedro Vasconcelos;20250978;BSI
+Maria Luiza Xavier;20250979;TADS
+Lucas Zago;20250980;EC
+Giovanna Rodrigues;20250981;BCC
+Guilherme Pereira;20250982;BSI
+Beatriz Santos;20250983;TADS
+Matheus Oliveira;20250984;EC
+Mariana Souza;20250985;BCC
+Rafael Alves;20250986;BSI
+Yasmin Ferreira;20250987;TADS
+Enzo Lima;20250988;EC
+Livia Costa;20250989;BCC
+Nicolas Ribeiro;20250990;BSI
+Sarah Martins;20250991;TADS
+Joao Miguel Gomes;20250992;EC
+Clara Barros;20250993;BCC
+Samuel Rocha;20250994;BSI
+Isadora Azevedo;20250995;TADS
+Benjamin Correia;20250996;EC
+Melissa Cardoso;20250997;BCC
+Joaquim Dias;20250998;BSI
+Esther Fernandes;20250999;TADS
+Henrique Freitas;20251000;EC
