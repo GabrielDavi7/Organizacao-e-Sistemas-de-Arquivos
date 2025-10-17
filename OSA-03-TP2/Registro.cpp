@@ -2,10 +2,8 @@
 #include <cstring>
 
 
-// Implementação do Construtor
 Registro::Registro() : lapide(' '), matricula(0) {}
 
-// Implementação dos Getters (para ler os dados)
 char Registro::getLapide() const {
     return this->lapide;
 }
@@ -22,7 +20,6 @@ std::string Registro::getCurso() const {
     return this->curso;
 }
 
-// Implementação dos Setters (para alterar os dados)
 void Registro::setLapide(char l) {
     this->lapide = l;
 }
