@@ -81,19 +81,50 @@ void SistemaGerenciador::gerarArquivoDados(){
 }
 
 
+
+void SistemaGerenciador::gerarArquivoIndice(){
+    std::ifstream dataFile(arquivoDados, std::ios::binary);
+    if(!dataFile.is_open()){
+        std::cerr << "Erro ao criar o arquivo de dados." <<std::endl;
+        return;
+    }
+    std::vector<Indice> indices;
+    Aluno aluno;
+    long Pos = 0;
+
+    while (lerRegistro(dataFile, aluno)) {
+        Indice idx;
+        idx.matricula = aluno.matricula;
+        idx.byte_offset = Pos;
+        indices.push_back(idx);
+        Pos = dataFile.tellg();
+    }
+
+    std::sort(indices.begin(), indices.end(), [](const Indice& a, const Indice& b) {
+        return a.matricula < b.matricula;
+    });
+
+    std::ofstream indexFile(arquivoIndice, std::ios::binary);
+    if (!indexFile.is_open()) {
+        std::cerr << "Erro ao criar o arquivo de indice." << std::endl;
+        return;
+    }
+
+    for (const auto& idx : indices) {
+        indexFile.write(reinterpret_cast<const char*>(&idx), sizeof(Indice));
+    }
+
+    std::cout << "O arquivo de indice foi gerado com sucesso"<< std::endl;
+    dataFile.close();
+    indexFile.close();
+}
+
+
 void SistemaGerenciador::buscarRegistroPorMatricula(){
 
 
 
 }
-
-
-void SistemaGerenciador::gerarArquivoIndice(){
-    
-
-    
-}
-
 
 void SistemaGerenciador::escreverRegistro(std::ofstream& out, const Aluno& aluno) {
     out.write(reinterpret_cast<const char*>(&aluno), sizeof(Aluno));
