@@ -43,6 +43,45 @@ void SistemaGerenciador::iniciar() {
 
 
 void SistemaGerenciador::gerarArquivoDados(){
+    std::ifstream csvFile(arquivoCSV);
+    if(!csvFile.is_open()){
+        std::cerr << "Erro ao abrir o arquivo csv." <<std::endl;
+        return;
+    }
+    std::ofstream dataFile(arquivoDados, std::ios::binary);
+    if(!dataFile.is_open()){
+        std::cerr << "Erro ao criar o arquivo de dados." <<std::endl;
+        return;
+    }
+
+    std::string linha;
+    std::getline(csvFile, linha);
+    Aluno aluno;
+
+    while(std::getline(csvFile, linha)){
+        std::stringstream ss(linha);
+        std::string field;
+
+        std::getline(ss, field, ',');
+        aluno.matricula = std::stoi(field);
+
+        std::getline(ss, field, ',');
+        strncpy(aluno.nome, field.c_str(), sizeof(aluno.nome) - 1);
+        aluno.nome[sizeof(aluno.nome) - 1] = '\0';
+
+        std::getline(ss, field, ',');
+        strncpy(aluno.curso, field.c_str(), sizeof(aluno.curso) - 1);
+        aluno.curso[sizeof(aluno.curso) - 1] = '\0';
+        escreverRegistro(dataFile, aluno);
+    }
+
+    std::cout<<"O arquivo de dados foi gerado com sucesso"<<std::endl;
+    csvFile.close();
+    dataFile.close();
+}
+
+
+void SistemaGerenciador::buscarRegistroPorMatricula(){
 
 
 
@@ -50,14 +89,9 @@ void SistemaGerenciador::gerarArquivoDados(){
 
 
 void SistemaGerenciador::gerarArquivoIndice(){
+    
 
-
-}
-
-
-void SistemaGerenciador::buscarRegistroPorMatricula(){
-
-
+    
 }
 
 
