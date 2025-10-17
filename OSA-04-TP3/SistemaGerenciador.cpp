@@ -8,6 +8,9 @@
 #include "SistemaGerenciador.h"
 #include <cstring>
 
+SistemaGerenciador::SistemaGerenciador(const std::string& csv, const std::string& dados, const std::string& indice)
+    : arquivoCSV(csv), arquivoDados(dados), arquivoIndice(indice) {}
+
 void SistemaGerenciador::iniciar() {
     int opcao;
     do {
@@ -40,7 +43,6 @@ void SistemaGerenciador::iniciar() {
         }
     } while (opcao != 4);
 }
-
 
 void SistemaGerenciador::gerarArquivoDados(){
     std::ifstream csvFile(arquivoCSV);
@@ -80,12 +82,10 @@ void SistemaGerenciador::gerarArquivoDados(){
     dataFile.close();
 }
 
-
-
 void SistemaGerenciador::gerarArquivoIndice(){
     std::ifstream dataFile(arquivoDados, std::ios::binary);
     if(!dataFile.is_open()){
-        std::cerr << "Erro ao criar o arquivo de dados." <<std::endl;
+        std::cerr << "Erro ao abrir o arquivo de dados." <<std::endl;
         return;
     }
     std::vector<Indice> indices;
@@ -121,10 +121,55 @@ void SistemaGerenciador::gerarArquivoIndice(){
 
 
 void SistemaGerenciador::buscarRegistroPorMatricula(){
+    std::ifstream indexFile(arquivoIndice, std::ios::binary);
+    if(!indexFile.is_open()){
+        std::cerr << "Erro ao abrir o arquivo de dados." <<std::endl;
+        return;}
 
+    std::vector<Indice> indices;
+    Indice idx;
+    while (indexFile.read(reinterpret_cast<char*>(&idx), sizeof(Indice))) {
+        indices.push_back(idx);
+    }
+    indexFile.close();
 
+    if (indices.empty()) {
+        std::cout << "O arquivo de indices esta vazio." << std::endl;
+        return;
+    }
 
+    int matriculaBusca;
+    std::cout << "Digite o numero da matricula: ";
+    std::cin >> matriculaBusca;
+
+    // Realiza uma pesquisa binária no vetor de índices
+    auto it = std::lower_bound(indices.begin(), indices.end(), matriculaBusca, 
+        [](const Indice& a, int mat) {
+        return a.matricula < mat;
+    });
+
+    if (it != indices.end() && it->matricula == matriculaBusca) {
+        std::ifstream dataFile(arquivoDados, std::ios::binary);
+        if (!dataFile.is_open()) {
+            std::cerr << "Erro ao abrir o arquivo de dados." << std::endl;
+            return;
+        }
+
+        Aluno aluno;
+        // Usa o byte_offset para ler o registro diretamente
+        if (lerRegistro(dataFile, aluno, it->byte_offset)) {
+            std::cout << "\n=== Aluno Encontrado ===" << std::endl;
+            std::cout << "Matricula: " << aluno.matricula << std::endl;
+            std::cout << "Nome: " << aluno.nome << std::endl;
+            std::cout << "Curso: " << aluno.curso << std::endl;
+            std::cout << "==============================" << std::endl;
+        }
+        dataFile.close();
+    } else {
+        std::cout <<"Matricula nao encontrada."<<std::endl;
+    }
 }
+    
 
 void SistemaGerenciador::escreverRegistro(std::ofstream& out, const Aluno& aluno) {
     out.write(reinterpret_cast<const char*>(&aluno), sizeof(Aluno));
