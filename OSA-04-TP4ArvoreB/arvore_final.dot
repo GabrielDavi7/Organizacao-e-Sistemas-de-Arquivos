@@ -1,0 +1,14 @@
+digraph BTree {
+    node [shape=record];
+    struct0 [label="<f0> 10|<f1> 22|<f2> 30|<f3> 40"];
+    struct1 [label="<f0> 5|<f1> 7|<f2> 8"];
+    struct0 -> struct1;
+    struct2 [label="<f0> 13|<f1> 15|<f2> 18|<f3> 20"];
+    struct0 -> struct2;
+    struct3 [label="<f0> 26|<f1> 27"];
+    struct0 -> struct3;
+    struct4 [label="<f0> 32|<f1> 35|<f2> 38"];
+    struct0 -> struct4;
+    struct5 [label="<f0> 42|<f1> 46"];
+    struct0 -> struct5;
+}
